@@ -7,4 +7,10 @@
 
 The following code is to calculate the parameter of the exponential model, lambda in case of RA according to Equation (C-1) on the page 114 in RP-1. 
 
-$$x=\sqrt{2}$$
+This math is inline $`a^2+b^2=c^2`$.
+
+This is on a separate line
+
+```math
+a^2+b^2=c^2
+```
