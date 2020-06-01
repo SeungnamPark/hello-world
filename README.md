@@ -7,8 +7,4 @@
 
 The following code is to calculate the parameter of the exponential model, lambda in case of RA according to Equation (C-1) on the page 114 in RP-1. 
 
-\begin{aligned}
-\dot{x} & = \sigma(y-x) \\
-\dot{y} & = \rho x - y - xz \\
-\dot{z} & = -\beta z + xy
-\end{aligned}
+$$x=\sqrt{2}$$
